@@ -2,7 +2,6 @@
 Hi there! I'm a passionate Web Designer and Machine Learning enthusiast. I enjoy blending creativity with technology, crafting visually appealing websites, and diving deep into data-driven projects. Whether it's designing user-friendly interfaces or building intelligent models, I'm always excited to tackle new challenges and collaborate on innovative solutions. Feel free to explore my projects and reach out if you'd like to connect!
 
 Visit my [Website](https://alimz.site) too! 😊
-Visit my [My Team](https://cdn.ituring.ir/) too! 😊
 
 
 
@@ -25,3 +24,5 @@ Visit my [My Team](https://cdn.ituring.ir/) too! 😊
 ---
 [![](https://visitcount.itsvg.in/api?id=Alimz-z&icon=0&color=12)](https://visitcount.itsvg.in)
 
+Proudly Cooperating with turing : 
+[](https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true)
