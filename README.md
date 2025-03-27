@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate Web Designer and Machine Learning enthusiast. I enjoy blending creativity with technology, crafting visually appealing websites, and diving deep into data-driven projects. Whether it's designing user-friendly interfaces or building intelligent models, I'm always excited to tackle new challenges and collaborate on innovative solutions. Feel free to explore my projects and reach out if you'd like to connect!
+Hi! I'm a passionate Web Designer and Machine Learning enthusiast, combining creativity with technology to deliver exceptional user experiences. I specialize in designing visually engaging websites and developing data-driven solutions. From crafting intuitive interfaces to building intelligent models, I'm always excited to embrace new challenges and collaborate on innovative projects. Explore my work, and don't hesitate to reach out if you'd like to connect!
 
 Visit my [Website](https://alimz.site) too! 😊
 
