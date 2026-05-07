@@ -19,8 +19,7 @@ Hi! I'm a passionate Web Designer and Machine Learning enthusiast, combining cre
 ---
 [![](https://visitcount.itsvg.in/api?id=Alimz-z&icon=0&color=12)](https://visitcount.itsvg.in)
 
-Proudly Cooperating with turing : 
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true" />
+
 
 
 <picture>
